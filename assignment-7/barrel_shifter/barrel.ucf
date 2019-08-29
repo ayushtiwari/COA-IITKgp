@@ -1,0 +1,25 @@
+NET I[0] LOC="p16";
+NET I[1] LOC="p18";
+NET I[2] LOC="p13";
+NET I[3] LOC="p15";
+NET I[4] LOC="p11";
+NET I[5] LOC="p12";
+NET I[6] LOC="p9";
+NET I[7] LOC="p10";
+
+
+NET SHAMT[0] LOC="p20";
+NET SHAMT[1] LOC="p19";
+NET SHAMT[2] LOC="p22";
+NET DIR LOC="p21";
+
+
+NET O[0] LOC="p139";
+NET O[1] LOC="p140";
+NET O[2] LOC="p137";
+NET O[3] LOC="p138";
+NET O[4] LOC="p133";
+NET O[5] LOC="p135";
+NET O[6] LOC="p131";
+NET O[7] LOC="p132";
+
