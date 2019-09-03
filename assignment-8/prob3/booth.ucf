@@ -1,0 +1,30 @@
+NET clk_fast LOC="p76";
+NET rst LOC="p191";
+NET load LOC="p190";
+NET m[0] LOC="p196";
+NET m[1] LOC="p194";
+NET m[2] LOC="p198";
+NET m[3] LOC="p197";
+NET m[4] LOC="p200";
+NET m[5] LOC="p199";
+
+NET r[0] LOC="p5";
+NET r[1] LOC="p7";
+NET r[2] LOC="p3";
+NET r[3] LOC="p4";
+NET r[4] LOC="p205";
+NET r[5] LOC="p2";
+
+NET clk_slow LOC="p139";
+NET product[0] LOC="p140";
+NET product[1] LOC="p137";
+NET product[2] LOC="p138";
+NET product[3] LOC="p133";
+NET product[4] LOC="p135";
+NET product[5] LOC="p131";
+NET product[6] LOC="p132";
+NET product[7] LOC="p149";
+NET product[8] LOC="p150";
+NET product[9] LOC="p147";
+NET product[10] LOC="p148";
+NET product[11] LOC="p144";
